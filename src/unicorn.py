@@ -17,6 +17,9 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 '''
 import sys,os
+
+# sys.path.append(os.path.abspath("C:\Program Files (x86)\Inkscape\share\extensions"))
+
 import inkex
 from math import *
 import getopt
